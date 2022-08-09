@@ -1,5 +1,5 @@
 {
-  "homepage":"http://levansardalashvili.github.io/quiz-app",
+  
   "name": "react-quiz",
   "version": "0.1.0",
   "private": true,
@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
- 
+  "homepage":"http://levansardalashvili.github.io/quiz-app",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
